@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "982918220352",
+    "firebase_url": "https://tuva-65112.firebaseio.com",
+    "project_id": "tuva-65112",
+    "storage_bucket": "tuva-65112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982918220352:android:6f1edd2a67d5837fd76da5",
+        "android_client_info": {
+          "package_name": "ru.example.tuva.travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982918220352-lf81tqgov9io0gsj9bdbvfr7439buifr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAygL19O7b3vfzBfxmoPLoG3tfZwLGmv8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982918220352-lf81tqgov9io0gsj9bdbvfr7439buifr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
